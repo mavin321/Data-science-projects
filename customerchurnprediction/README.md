@@ -22,9 +22,9 @@ This project aims to predict customer churn for a subscription-based service usi
    - Converted `Total Charges` to numeric and handled missing values
    - Scaled numerical features using Min-Max Scaling
 
-3. **Model Selection & Training** *(Next Step)*
+3. **Model Selection & Training** 
    - Split data into training and test sets
-   - Train models such as Logistic Regression, Random Forest, or XGBoost
+   - Train models such as XGBoost
    - Evaluate model performance using accuracy, precision, recall, and F1-score
 
 ## How to Run the Project
@@ -53,5 +53,3 @@ python train_model.py
 Mavin
 
 ---
-This README provides a clear project structure for GitHub. Let me know if you'd like any refinements!
-
